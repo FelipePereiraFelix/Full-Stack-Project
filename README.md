@@ -1,6 +1,6 @@
 # Aqui mais um projeto feito com exito! Desta vez, utilizando de react <img align="center" alt="Felix-GITHUB" height="40" width="30" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg"> 
 
-Este projeto é outro projeto voltado para uma replica de spotify, porém aqui é voltada para Full-Stack, então há coisas mais que o outro projeto. 
+Este projeto é outro projeto voltado para uma replica de spotify, porém aqui é voltada para Full-Stack. Diferente do outro que fiz voltado apenas para Front-End.
 
 ## Notas importantes❗
 
