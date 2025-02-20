@@ -11,3 +11,11 @@ Este projeto é outro projeto voltado para uma replica de spotify, porém aqui �
 - **artists.json**: Informações dos artistas, banners e outras coisas do tipo.
 - **songs.json**: É aonde terá a parte da música, tem fotos, músicas e outras coisas mais.
 - **OBS❕**:Antes de Subir seu repositório, retire as informações também. Mas se quiser deixa-las, é por sua conta e risco.
+
+
+## Nota Bônus ‼:
+
+- Adicionei mais uma pasta de Anotações em **Jupyter**. Como sempre deixo as aulas explicadas, alguns códigos escritos. Então verifique ela caso tenha dúvidas.
+- Já deixo claro que não posso tirar todas dúvidas possíveis através do **Jupyter Notebook**, porque ali é um breve resumo de como foram minhas aulas, minha experiência durante a jornada. 
+
+
