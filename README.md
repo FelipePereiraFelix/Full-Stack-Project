@@ -10,7 +10,7 @@ Este projeto é outro projeto voltado para uma replica de spotify, porém aqui �
 - Dentro da pasta **Database** tem:
 - **artists.json**: Informações dos artistas, banners e outras coisas do tipo.
 - **songs.json**: É aonde terá a parte da música, tem fotos, músicas e outras coisas mais.
-- **OBS❕**:Antes de Subir seu repositório, retire as informações também. Mas se quiser deixa-las, é por sua conta e risco.
+- **OBS❕**:Antes de Subir seu repositório, retire as informações de usuário e senha do seu banco não relacional do Mongodb também. Mas se quiser deixa-las, é por sua conta e risco.
 
 
 ## Nota Bônus ‼:
